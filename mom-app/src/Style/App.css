@@ -5,6 +5,10 @@ body{
   font-family: "Helvetica";
 }
 
+h3, h4{
+  font-family: "Helvetica";
+}
+
 .App{
   color:white;
 }

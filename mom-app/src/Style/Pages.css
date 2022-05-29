@@ -1,0 +1,35 @@
+.container{
+    height: 100%;
+    width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top:20px;
+    background-color: RGB(51, 97, 121);
+    border-radius: 10px;
+    border: 1px solid beige;
+    text-align: center;
+    color: beige;
+}
+
+.container-title{
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.container-body{
+    border-top: 2px solid beige;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.table-image{
+    width:30vw;
+    border-radius: 15px;
+    margin-bottom: 15px;
+} 
+
+.table-big-image{
+    width:60vw;
+    border-radius: 15px;
+    margin-bottom: 15px;
+}

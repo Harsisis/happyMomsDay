@@ -7,16 +7,16 @@ function Header() {
   return (
     <header>
       <div>
-        <Link to="/">
+        <Link to="/happyMomsDay/">
           <img className="logo" src={mainLogo} alt="home"></img>
         </Link>
-        <Link to="/mom" className="header-button">
+        <Link to="/happyMomsDay/mom" className="header-button">
             <div className="button-title">
                 # pour maman #
             </div>
         </Link>
         <br></br>
-        <Link to="/grand-mom" className="header-button">
+        <Link to="/happyMomsDay/grand-mom" className="header-button">
         <div className="button-title">
                 # pour mamie #
             </div>

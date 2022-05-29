@@ -12,9 +12,9 @@ root.render(
   <BrowserRouter>
     <Header></Header>
     <Routes>
-      <Route path="/" element={<App />} />
-      <Route path="/grand-mom" element={<Grandmom />} />
-      <Route path="/mom" element={<Mom />} />
+      <Route path="/happyMomsDay/" element={<App />} />
+      <Route path="/happyMomsDay/grand-mom" element={<Grandmom />} />
+      <Route path="/happyMomsDay/mom" element={<Mom />} />
     </Routes>
   </BrowserRouter>
 );

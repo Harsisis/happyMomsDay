@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/happyMomsDay/static/css/main.903eb804.css",
+    "main.css": "/happyMomsDay/static/css/main.ed19f65d.css",
     "main.js": "/happyMomsDay/static/js/main.76329c22.js",
     "static/media/kangoo.png": "/happyMomsDay/static/media/kangoo.bf0e5a5f6bf9b7ae446c.png",
     "static/media/headphone.jpg": "/happyMomsDay/static/media/headphone.22c87447dd9b3be78df6.jpg",
     "index.html": "/happyMomsDay/index.html",
-    "main.903eb804.css.map": "/happyMomsDay/static/css/main.903eb804.css.map",
+    "main.ed19f65d.css.map": "/happyMomsDay/static/css/main.ed19f65d.css.map",
     "main.76329c22.js.map": "/happyMomsDay/static/js/main.76329c22.js.map"
   },
   "entrypoints": [
-    "static/css/main.903eb804.css",
+    "static/css/main.ed19f65d.css",
     "static/js/main.76329c22.js"
   ]
 }
